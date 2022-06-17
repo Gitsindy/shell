@@ -1,0 +1,4 @@
+#!/bin/bash
+root@9aad1a52fb66:/home/shell/basics# ls
+0-current_working_directory  1-listit  README.md
+root@9aad1a52fb66:/home/shell/basics#
