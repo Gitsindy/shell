@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /home/my_first_directory: basics
+mkdir /home/my_first_directory/basics
